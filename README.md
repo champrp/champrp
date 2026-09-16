@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Rohit - 👋
-
+Senior Software Engineer at BT Group with 5+ years of experience building scalable, production-grade software systems. Demonstrated excellence in designing and developing distributed systems to power high-performance applications. Contributed to architectural decision-making, enabling seamless scalability and availability.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit1patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitpatil099sb@gmail.com) 
